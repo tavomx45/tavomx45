@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and share knowledge
 - 🌱 I’m currently learning Machine and deep learning, and Data Science
 - 💞️ I’m looking to collaborate on Autonomous cars projects
-- 📫 How to reach me look at my LinkedIn profile: linkedin.com/in/bryan-gustavo-paredes-91a87b234
+- 📫 How to reach me look at my LinkedIn profile: linkedin.com/in/bgparedesb
 
 <!---
 tavomx45/tavomx45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
